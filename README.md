@@ -7,7 +7,7 @@ You can take a look at the Demo of the Signlingo here (This is the website with 
 <b>Demo</b>: https://1drv.ms/v/s!AuHtpCoqx5-JgW1hVwsm3CCMXHQX
 <br>
 <br>
-I have not yet completed the responsive part of the website. So to best use it, please set the computer interface to be larger than 1300px*900px.
+I have not yet completed the responsive part of the website. So to best use it, please use/set the screen resolution to be larger than 1300px*900px.
 <br>
 <br>
 This project is supported by <b>Bootstrap Studio.</b>
