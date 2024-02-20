@@ -12,4 +12,4 @@ I have not yet completed the responsive part of the website. So to best use it, 
 <br>
 This project is supported by <b>Bootstrap Studio.</b>
 <br>
-P/s: Thanks to Bootstrap Studio's support, I created the front-end of this website in a very short time even though I don't know any code about HTML, CSS or JavaScript and have never done anything about the web before.:)
+P/s: Thanks to Bootstrap Studio's support, I created the front-end of this website in a very short time even though I don't know any code about HTML, CSS or JavaScript and have never done anything about the web before:).
